@@ -1,1 +1,4 @@
 # Notepad
+
+
+USED HTML,CSS,JS FOR MAKING THIS NOTEPAD......
